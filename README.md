@@ -22,4 +22,4 @@ References:
 [2] https://raw.githubusercontent.com/megagonlabs/HappyDB/master/happydb/data/cleaned_hm.csv
 
 [3] https://github.com/megagonlabs/HappyDB/blob/master/happydb/data/topic_dict/people-dict.csv
-![image](https://github.com/aditinpala/Text-Mining/assets/60480137/4a6d7f8a-c1c4-494c-a67b-69b3e6c8b4dc)
+

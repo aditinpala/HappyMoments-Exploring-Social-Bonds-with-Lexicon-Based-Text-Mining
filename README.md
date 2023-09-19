@@ -16,5 +16,10 @@ HappyDB is a corpus of 100,000+ crowd-sourced descriptions of happy moments. Hap
 
 (4)	Extract five context words before and after the most mentioned people, sort by frequency, and explore patterns in the 100 most frequent context words, for example, any words indicating activities that people do in happy moments? 
 
-![image](https://github.com/aditinpala/Text-Mining/assets/60480137/35dc45fe-6780-41da-a5c8-a2d6496b22c7)
+References:
+[1] https://github.com/megagonlabs/HappyDB
 
+[2] https://raw.githubusercontent.com/megagonlabs/HappyDB/master/happydb/data/cleaned_hm.csv
+
+[3] https://github.com/megagonlabs/HappyDB/blob/master/happydb/data/topic_dict/people-dict.csv
+![image](https://github.com/aditinpala/Text-Mining/assets/60480137/4a6d7f8a-c1c4-494c-a67b-69b3e6c8b4dc)
